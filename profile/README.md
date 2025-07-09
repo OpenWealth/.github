@@ -47,7 +47,7 @@ This repository contains:
 OpenWealth is an open community — banks, fintechs, developers, and regulators are all welcome.
 
 🔹 Start here: [CONTRIBUTING.md](./CONTRIBUTING.md)  
-🔹 Read the [Code of Conduct](./CODE_OF_CONDUCT.md)  
+🔹 Read the [Code of Conduct](https://github.com/OpenWealth/.github/blob/main/CODE_OF_CONDUCT.md)  
 🔹 Join the conversation in [Discussions](https://github.com/OpenWealth/OpenWealth/discussions)  
 🔹 Raise an [issue](https://github.com/OpenWealth/OpenWealth/issues) or submit a pull request
 
