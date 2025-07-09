@@ -22,7 +22,7 @@ The **OpenWealth** Association’s mission is to connect financial institutions,
 
 Learn more at 👉 [openwealth.ch](https://openwealth.ch)
 
-OpenWealth is taking part in the Swiss open finance movement and contributes to [Common API](https://common-api.ch/index.php/en) initiative of Swiss Fintech Innovations ([SFTI](https://swissfintechinnovations.ch).
+OpenWealth is taking part in the Swiss open finance movement and contributes to [Common API](https://common-api.ch/index.php/en) initiative of Swiss Fintech Innovations [(SFTI)](https://swissfintechinnovations.ch).
 
 
 ---
