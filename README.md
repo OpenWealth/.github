@@ -1,4 +1,4 @@
-![OW_logo3](https://github.com/user-attachments/assets/382a3479-0f0c-4630-9e81-7457eae5a1ba)
+![openwealthLogo_wide](https://github.com/user-attachments/assets/637bb9ab-2aa2-4a9b-ab1f-2c58f3031717)
 
 # Welcome to OpenWealth
 
